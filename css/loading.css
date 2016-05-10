@@ -1,0 +1,12 @@
+#wait
+{  
+  	width: 350;
+	heigth: 100;
+	background-color: #FFF000;
+	text-align: center;
+	border: solid 1px #FFFFFF;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    margin-left: -70px;
+}

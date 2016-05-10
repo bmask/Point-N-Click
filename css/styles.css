@@ -1,0 +1,30 @@
+*{
+	margin:0;
+	padding:0;
+}
+#page{
+	width:550px;
+	margin: 150px auto 100px;
+}
+
+form ul{
+	list-style:none;
+}
+
+form li{
+	padding: 15px;
+}
+
+form li:nth-child(even){
+	background:url('../img/line_bg.png') repeat-y center center;
+}
+
+form label{
+	width:370px;
+	font-size:20px;
+	color:#bbb;
+	display: inline-block;
+}
+
+ 
+ 
